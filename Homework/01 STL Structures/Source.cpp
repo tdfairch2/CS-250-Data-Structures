@@ -40,10 +40,11 @@ void LoadPages(vector <string>& pages, const string& Aesop)
 	input.close();
 }
 
-		//void ReadBook(Page pages[100])  This is the original code
-		// but my intention is to set totalPages to get the vector's size, 
-		// as per the assignment instructions but I was incorrectly
-	void ReadBook (Page pageCount)
+		  //void ReadBook(Page pages[100])  This is the original code.  
+		  //  
+		  // Tried to set totalPages to get the vector's size,   
+		  // as per the assignment instructions but I was unable.	
+void ReadBook (Page pageCount)
 {
 	int currentPage = 0;
 	Page totalPages = pageCount;
