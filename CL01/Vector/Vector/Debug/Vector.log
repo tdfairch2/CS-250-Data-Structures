@@ -1,9 +1,0 @@
-﻿  vectorexample.cpp
-c:\data-structures-a.k.a.-itinerant-jesuslizard-\vector\vector\vectorexample.cpp(24): error C2661: 'std::vector<int,std::allocator<_Ty>>::resize': no overloaded function takes 0 arguments
-          with
-          [
-              _Ty=int
-          ]
-c:\data-structures-a.k.a.-itinerant-jesuslizard-\vector\vector\vectorexample.cpp(24): error C2143: syntax error: missing ';' before ')'
-c:\data-structures-a.k.a.-itinerant-jesuslizard-\vector\vector\vectorexample.cpp(24): error C2065: 'i': undeclared identifier
-c:\data-structures-a.k.a.-itinerant-jesuslizard-\vector\vector\vectorexample.cpp(26): error C2065: 'i': undeclared identifier
