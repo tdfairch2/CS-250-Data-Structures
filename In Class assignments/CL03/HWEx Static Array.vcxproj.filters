@@ -21,7 +21,7 @@
     <ClCompile Include="SmartStaticArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Tester_SmartStaticArray.cpp">
+    <ClCompile Include="cuTEST\TesterBase.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -29,7 +29,16 @@
     <ClInclude Include="SmartStaticArray.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Tester_SmartStaticArray.hpp">
+    <ClInclude Include="Tester.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cuTEST\Menu.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cuTEST\StringUtil.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cuTEST\TesterBase.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

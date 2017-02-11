@@ -28,6 +28,7 @@ class SmartStaticArray
     string operator[]( int index );
     SmartStaticArray& operator=( const SmartStaticArray& other );
     bool operator==( const SmartStaticArray& other );
+	bool operator!=(const SmartStaticArray& other);
 
     private:
     string m_data[MAX_SIZE];

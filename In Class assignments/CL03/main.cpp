@@ -1,11 +1,12 @@
 #include <iostream>
 using namespace std;
 
-#include "Tester_SmartStaticArray.hpp"
+#include "Tester.hpp"
 
 int main()
 {
-    Tester_SmartStaticArray::Start();
+	Tester tester;
+	tester.Start();
 
-    return 0;
+	return 0;
 }

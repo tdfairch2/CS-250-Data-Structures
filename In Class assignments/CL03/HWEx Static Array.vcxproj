@@ -110,13 +110,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cuTEST\TesterBase.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="SmartStaticArray.cpp" />
-    <ClCompile Include="Tester_SmartStaticArray.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="cuTEST\Menu.hpp" />
+    <ClInclude Include="cuTEST\StringUtil.hpp" />
+    <ClInclude Include="cuTEST\TesterBase.hpp" />
     <ClInclude Include="SmartStaticArray.hpp" />
-    <ClInclude Include="Tester_SmartStaticArray.hpp" />
+    <ClInclude Include="Tester.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
