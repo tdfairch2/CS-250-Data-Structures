@@ -1,0 +1,7 @@
+﻿  SmartStaticArray.cpp
+c:\users\terry\desktop\feb 8 cs250 classwork\smartstaticarray.cpp(16): warning C4715: 'SmartStaticArray::Push': not all control paths return a value
+c:\users\terry\desktop\feb 8 cs250 classwork\smartstaticarray.cpp(102): warning C4715: 'SmartStaticArray::IsFull': not all control paths return a value
+c:\users\terry\desktop\feb 8 cs250 classwork\smartstaticarray.cpp(110): warning C4715: 'SmartStaticArray::IsEmpty': not all control paths return a value
+c:\users\terry\desktop\feb 8 cs250 classwork\smartstaticarray.cpp(133): warning C4172: returning address of local variable or temporary: blorp
+  HWEx Static Array.vcxproj -> C:\Users\Terry\Desktop\Feb 8 CS250 classwork\Debug\HWEx Static Array.exe
+  HWEx Static Array.vcxproj -> C:\Users\Terry\Desktop\Feb 8 CS250 classwork\Debug\HWEx Static Array.pdb (Partial PDB)
