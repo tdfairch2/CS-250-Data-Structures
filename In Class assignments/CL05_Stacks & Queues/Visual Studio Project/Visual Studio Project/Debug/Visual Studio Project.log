@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\svc-student\desktop\lab05\main.cpp(25): error C2259: 'Queue<std::string>': cannot instantiate abstract class
+  c:\users\svc-student\desktop\lab05\main.cpp(25): note: due to following members:
+  c:\users\svc-student\desktop\lab05\main.cpp(25): note: 'void DoublyLinkedList<std::string>::Pop(void)': is abstract
+  c:\users\svc-student\desktop\lab05\doublylinkedlist.hpp(48): note: see declaration of 'DoublyLinkedList<std::string>::Pop'
+  c:\users\svc-student\desktop\lab05\main.cpp(25): note: 'std::string DoublyLinkedList<std::string>::Take(void)': is abstract
+  c:\users\svc-student\desktop\lab05\doublylinkedlist.hpp(49): note: see declaration of 'DoublyLinkedList<std::string>::Take'
+c:\users\svc-student\desktop\lab05\main.cpp(31): error C2259: 'Stack<std::string>': cannot instantiate abstract class
+  c:\users\svc-student\desktop\lab05\main.cpp(31): note: due to following members:
+  c:\users\svc-student\desktop\lab05\main.cpp(31): note: 'void DoublyLinkedList<std::string>::Pop(void)': is abstract
+  c:\users\svc-student\desktop\lab05\doublylinkedlist.hpp(48): note: see declaration of 'DoublyLinkedList<std::string>::Pop'
+  c:\users\svc-student\desktop\lab05\main.cpp(31): note: 'std::string DoublyLinkedList<std::string>::Take(void)': is abstract
+  c:\users\svc-student\desktop\lab05\doublylinkedlist.hpp(49): note: see declaration of 'DoublyLinkedList<std::string>::Take'
